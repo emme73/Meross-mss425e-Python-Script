@@ -13,3 +13,6 @@ usage:
   edit the file and enter the userID and password
   simple and minimal
   
+REQUIREMENTS: 
+Python ver >= 3.6
+Meross IOT Api ==> https://github.com/albertogeniola/MerossIot (THANK YOU SO MUCH!!!!)
